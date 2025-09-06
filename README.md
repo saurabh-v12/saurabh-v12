@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 🔭 I’m currently working on Open-Source Project<br>👯 I’m looking to collaborate on Industrial Project<br>🤝 I’m looking for help with Learning Cuting Edge tech<br>🌱 I’m currently learning Java Script<br>💬 Ask me about Anything<br>⚡ Fun fact I'm BATMAN
 
 
