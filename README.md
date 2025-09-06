@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Habitor<br>👯 I’m looking to collaborate on Industrial Project<br>🤝 I’m looking for help with Habitor<br>🌱 I’m currently learning Java Script<br>💬 Ask me about Anythiing<br>⚡ Fun fact i'm BatMan
+🔭 I’m currently working on Open-Source Project<br>👯 I’m looking to collaborate on Industrial Project<br>🤝 I’m looking for help with Learning Cuting Edge tech<br>🌱 I’m currently learning Java Script<br>💬 Ask me about Anything<br>⚡ Fun fact I'm BATMAN
 
 
 ## 🌐 Socials:
@@ -11,12 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=saurabh-v12&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=saurabh-v12&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-v12&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saurabh-v12&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=saurabh-v12&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
